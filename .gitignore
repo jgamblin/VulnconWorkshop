@@ -171,3 +171,4 @@ cython_debug/
 .pypirc
 /Data/Schemas
 /Data/NVD
+/Data/CVE
