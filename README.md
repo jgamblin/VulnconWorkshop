@@ -47,6 +47,12 @@ If you prefer to run the notebooks locally, follow these steps:
     jupyter notebook
     ```
 
+## Data Sources
+
+The CVE data used in this workshop is sourced from:
+- [NVD](https://nvd.nist.gov/)
+- [CVE.org](https://cve.org/)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
