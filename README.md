@@ -12,9 +12,9 @@ In this workshop, we will use Jupyter Notebooks to analyze and explore public CV
 
 ## Getting Started
 
-To get started with this workshop, you can open this repository in Google Colab by clicking the link below:
+To get started with this workshop, you can open this repository in MyBinder by clicking the link below:
 
-[Open in Google Colab](https://colab.research.google.com/github/jgamblin/VulnconWorkshop)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jgamblin/VulnconWorkshop/HEAD)
 
 ## Prerequisites
 
@@ -50,4 +50,3 @@ If you prefer to run the notebooks locally, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
