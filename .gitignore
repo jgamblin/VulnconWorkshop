@@ -172,3 +172,5 @@ cython_debug/
 /Data/Schemas
 /Data/NVD
 /Data/CVE
+/NVDProgram/Files
+/CVEProgram/Files
