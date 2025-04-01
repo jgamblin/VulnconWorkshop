@@ -169,6 +169,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# Workshop files
+*.csv
 /Data/Schemas
 /Data/NVD
 /Data/CVE
